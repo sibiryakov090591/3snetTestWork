@@ -1,0 +1,10 @@
+.table {
+    padding: 0 100px;
+}
+
+.paginator {
+    position: absolute;
+    bottom: 15px;
+    right: 50%;
+    transform: translateX(50%);
+}
